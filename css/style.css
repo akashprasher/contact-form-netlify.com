@@ -1,0 +1,44 @@
+		.fnts{
+				font-family: 'Montez', cursive;
+				font-family: 'Permanent Marker', cursive;
+		
+		}
+		body{
+			background-image: url('../imgs/repeat.jpg');
+			background-attachment: fixed;
+		}
+		h2{
+			color: #FBCA09;
+		}
+		a{
+			color: white;
+		}
+		hr{
+			color: #FBCA09; 
+  			display: block;
+ 			margin-top: 0.5em;
+  			margin-bottom: 0.5em;
+  			/*margin-left: auto;
+  			margin-right: auto;*/
+  			border-style: inset;
+  			border-width: 1px;
+		}
+		p{
+			color: white;
+		}
+		label{
+			color:white;
+		}
+
+		.logo{
+			display: block;
+ 			margin-left: auto;
+ 			margin-right: auto;
+		}
+		.heading{
+			display: block;
+ 			margin-left: auto;
+ 			margin-right: auto;
+ 			text-align: center;
+ 			width: 100;
+		}
